@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:solarium"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:solarium"
+   }
+  ]
+ }
+}

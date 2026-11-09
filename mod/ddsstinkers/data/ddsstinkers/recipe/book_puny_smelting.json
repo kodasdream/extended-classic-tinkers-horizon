@@ -1,0 +1,36 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:book",
+  "minecraft:brick"
+ ],
+ "result": {
+  "id": "minecraft:written_book",
+  "count": 1,
+  "components": {
+   "minecraft:written_book_content": {
+    "title": {
+     "raw": "Puny Smelting"
+    },
+    "author": "SlimeKnights",
+    "generation": 0,
+    "resolved": true,
+    "pages": [
+     {
+      "raw": "The Seared Furnace can be any size from 3x3 to 11x11, and with any height from a minimum of 3. Larger structures increase the amount of items that can smelt at once. In order to be a valid structure, it requires a floor and ceiling, along"
+     },
+     {
+      "raw": "with a frame around the sides (frames around the ceiling and floor are optional) The structure can be made using seared blocks of any kind with a single controller. At least one tank for fuel must be present, placed at an outer edge of the"
+     },
+     {
+      "raw": "structure (see picture). The ceiling can be swapped out for slabs or stairs, but otherwise supports the same blocks as the rest of the structure."
+     },
+     {
+      "raw": "The Seared Furnace\n\nThe Seared Furnace is a master to all furnaces, cooking quarter stacks at once and cooking food with greater speed."
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:manyullyn_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:manyullyn_ingot",
+  "count": 9
+ }
+}

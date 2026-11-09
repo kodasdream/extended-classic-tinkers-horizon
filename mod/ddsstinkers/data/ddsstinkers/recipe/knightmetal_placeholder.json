@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:ardite_ingot",
+  "longclimb:sapphire_gem",
+  "minecraft:blaze_powder"
+ ],
+ "result": {
+  "id": "ddsstinkers:knightmetal_ingot",
+  "count": 1
+ }
+}

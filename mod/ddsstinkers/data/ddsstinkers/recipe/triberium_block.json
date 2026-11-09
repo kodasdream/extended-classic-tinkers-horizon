@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:triberium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:triberium_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:enderium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:enderium_ingot",
+  "count": 9
+ }
+}

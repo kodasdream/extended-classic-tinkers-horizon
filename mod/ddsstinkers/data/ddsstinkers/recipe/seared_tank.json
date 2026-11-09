@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "BBB",
+  "BGB",
+  "BBB"
+ ],
+ "key": {
+  "B": "ddsstinkers:seared_brick",
+  "G": "minecraft:glass"
+ },
+ "result": {
+  "id": "ddsstinkers:seared_tank",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:supremium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:supremium_ingot",
+  "count": 9
+ }
+}

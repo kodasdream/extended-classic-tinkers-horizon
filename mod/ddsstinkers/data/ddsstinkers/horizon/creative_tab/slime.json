@@ -1,0 +1,32 @@
+{
+ "title": "Classic Tinkers: Slime",
+ "icon": "ddsstinkers:congealed_green_slime",
+ "items": [
+  "ddsstinkers:congealed_green_slime",
+  "ddsstinkers:green_slime_dirt",
+  "ddsstinkers:green_slime_grass",
+  "ddsstinkers:green_slime_leaves",
+  "ddsstinkers:congealed_blue_slime",
+  "ddsstinkers:blue_slime_dirt",
+  "ddsstinkers:blue_slime_grass",
+  "ddsstinkers:blue_slime_leaves",
+  "ddsstinkers:congealed_purple_slime",
+  "ddsstinkers:purple_slime_dirt",
+  "ddsstinkers:purple_slime_grass",
+  "ddsstinkers:purple_slime_leaves",
+  "ddsstinkers:congealed_magma_slime",
+  "ddsstinkers:magma_slime_dirt",
+  "ddsstinkers:magma_slime_grass",
+  "ddsstinkers:magma_slime_leaves",
+  "ddsstinkers:congealed_blood_slime",
+  "ddsstinkers:firewood",
+  "ddsstinkers:lavawood",
+  "ddsstinkers:dried_clay",
+  "ddsstinkers:dried_clay_bricks",
+  "ddsstinkers:mud_bricks",
+  "ddsstinkers:brownstone",
+  "ddsstinkers:brownstone_fancy",
+  "ddsstinkers:alubrass_block",
+  "ddsstinkers:silky_jewel_block"
+ ]
+}

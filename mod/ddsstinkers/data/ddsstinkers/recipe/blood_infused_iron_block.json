@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:blood_infused_iron_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:blood_infused_iron_block",
+  "count": 1
+ }
+}

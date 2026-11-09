@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:triberium_ingot",
+  "ddsstinkers:triberium_ingot",
+  "ddsstinkers:triberium_ingot",
+  "longclimb:osram_ingot",
+  "ddsstinkers:seismum_ingot",
+  "ddsstinkers:fractum_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:dyonite_ingot",
+  "count": 3
+ }
+}

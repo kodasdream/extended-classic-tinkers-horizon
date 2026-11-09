@@ -1,0 +1,24 @@
+{
+ "title": "Classic Tinkers: Gadgets",
+ "icon": "ddsstinkers:glowball",
+ "items": [
+  "ddsstinkers:glowball",
+  "ddsstinkers:efln",
+  "ddsstinkers:slimesling",
+  "ddsstinkers:slime_boots",
+  "ddsstinkers:bacon",
+  "ddsstinkers:jerky_monster",
+  "ddsstinkers:jerky_beef",
+  "ddsstinkers:jerky_pork",
+  "ddsstinkers:jerky_chicken",
+  "ddsstinkers:jerky_mutton",
+  "ddsstinkers:jerky_rabbit",
+  "ddsstinkers:jerky_fish",
+  "ddsstinkers:apple_diamond",
+  "ddsstinkers:moms_spaghetti",
+  "ddsstinkers:slimedrop_green",
+  "ddsstinkers:slimedrop_blue",
+  "ddsstinkers:slimedrop_purple",
+  "ddsstinkers:slimedrop_magma"
+ ]
+}

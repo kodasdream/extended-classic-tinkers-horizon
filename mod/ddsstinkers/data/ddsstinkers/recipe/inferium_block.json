@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:inferium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:inferium_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "template": "minecraft:iron_helmet",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 264,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.helmet",
+    "amount": 3,
+    "operation": "add_value",
+    "slot": "head"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.helmet",
+    "amount": 0.5,
+    "operation": "add_value",
+    "slot": "head"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "head",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:xu_evil_metal"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:xu_evil_metal_ingot"
+  }
+ }
+}

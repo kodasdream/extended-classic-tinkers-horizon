@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:reinforced_pink_slime_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:reinforced_pink_slime_ingot",
+  "count": 9
+ }
+}

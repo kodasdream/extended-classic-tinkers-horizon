@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:xu_magical_wood_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:xu_magical_wood_ingot",
+  "count": 9
+ }
+}

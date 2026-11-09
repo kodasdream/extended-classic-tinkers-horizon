@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:eternium_ingot",
+  "longclimb:dragonstone_gem",
+  "minecraft:ender_pearl"
+ ],
+ "result": {
+  "id": "ddsstinkers:awakened_ingot",
+  "count": 1
+ }
+}

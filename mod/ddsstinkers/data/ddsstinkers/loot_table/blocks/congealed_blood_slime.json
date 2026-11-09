@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:block",
+ "random_sequence": "ddsstinkers:blocks/congealed_blood_slime",
+ "pools": [
+  {
+   "rolls": 1,
+   "condition": {
+    "type": "minecraft:survives_explosion"
+   },
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "ddsstinkers:congealed_blood_slime"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "M   M",
+  "M   M",
+  "MM MM"
+ ],
+ "key": {
+  "M": "ddsstinkers:hard_carbon_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:hard_carbon_boots",
+  "count": 1
+ }
+}

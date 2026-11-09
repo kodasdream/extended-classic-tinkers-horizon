@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:block/cube_all",
+ "textures": {
+  "all": "ddsstinkers:block/blood_infused_iron_block"
+ }
+}

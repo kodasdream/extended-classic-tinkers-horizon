@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "ddsstinkers:grout",
+ "result": {
+  "id": "ddsstinkers:seared_brick"
+ },
+ "experience": 0.3,
+ "cookingtime": 100
+}

@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:block",
+ "random_sequence": "ddsstinkers:blocks/blood_infused_wood_block",
+ "pools": [
+  {
+   "rolls": 1,
+   "condition": {
+    "type": "minecraft:survives_explosion"
+   },
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "ddsstinkers:blood_infused_wood_block"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:nihilite_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:nihilite_helmet",
+  "count": 1
+ }
+}

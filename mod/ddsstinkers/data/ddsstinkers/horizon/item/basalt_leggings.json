@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_leggings",
+ "rarity": "common",
+ "components": {
+  "minecraft:max_damage": 90,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.leggings",
+    "amount": 2,
+    "operation": "add_value",
+    "slot": "legs"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "legs",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:basalt"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:basalt_ingot"
+  }
+ }
+}

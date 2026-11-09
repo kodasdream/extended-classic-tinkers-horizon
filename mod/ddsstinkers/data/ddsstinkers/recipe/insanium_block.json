@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:insanium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:insanium_block",
+  "count": 1
+ }
+}

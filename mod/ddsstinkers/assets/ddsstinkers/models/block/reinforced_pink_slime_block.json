@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:block/cube_all",
+ "textures": {
+  "all": "ddsstinkers:block/reinforced_pink_slime_block"
+ }
+}

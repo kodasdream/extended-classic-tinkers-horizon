@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_boots",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 234,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.boots",
+    "amount": 2,
+    "operation": "add_value",
+    "slot": "feet"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "feet",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:desert_myrmex"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:desert_myrmex_ingot"
+  }
+ }
+}

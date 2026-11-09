@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "S",
+  "S"
+ ],
+ "key": {
+  "S": "minecraft:cobblestone"
+ },
+ "result": {
+  "id": "ddsstinkers:stone_rod",
+  "count": 4
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:certusquartz_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:certusquartz_ingot",
+  "count": 9
+ }
+}

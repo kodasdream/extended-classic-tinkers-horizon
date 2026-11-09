@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:electrum_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:electrum_helmet",
+  "count": 1
+ }
+}

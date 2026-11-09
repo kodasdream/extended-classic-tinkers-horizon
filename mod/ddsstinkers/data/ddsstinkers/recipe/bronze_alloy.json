@@ -1,0 +1,14 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:copper_ingot",
+  "minecraft:copper_ingot",
+  "minecraft:copper_ingot",
+  "longclimb:tin_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:bronze_ingot",
+  "count": 4
+ }
+}

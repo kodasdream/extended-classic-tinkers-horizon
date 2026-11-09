@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "minecraft:flint"
+ },
+ "result": {
+  "id": "ddsstinkers:flint_helmet",
+  "count": 1
+ }
+}

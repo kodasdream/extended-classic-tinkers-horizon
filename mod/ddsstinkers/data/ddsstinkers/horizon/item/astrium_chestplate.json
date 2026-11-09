@@ -1,0 +1,31 @@
+{
+ "template": "minecraft:iron_chestplate",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 432,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.chestplate",
+    "amount": 7,
+    "operation": "add_value",
+    "slot": "chest"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.chestplate",
+    "amount": 1.0,
+    "operation": "add_value",
+    "slot": "chest"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "chest",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:astrium"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:astrium_ingot"
+  }
+ }
+}

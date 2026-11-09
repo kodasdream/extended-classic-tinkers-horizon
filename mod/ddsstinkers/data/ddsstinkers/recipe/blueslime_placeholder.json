@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:tin_ingot",
+  "minecraft:redstone"
+ ],
+ "result": {
+  "id": "ddsstinkers:blueslime_ingot",
+  "count": 1
+ }
+}

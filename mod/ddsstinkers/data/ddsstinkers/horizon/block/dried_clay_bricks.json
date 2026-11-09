@@ -1,0 +1,10 @@
+{
+ "template": "minecraft:bricks",
+ "properties": {
+  "hardness": 1.5,
+  "explosion_resistance": 3.0
+ },
+ "components": {
+  "minecraft:rarity": "common"
+ }
+}

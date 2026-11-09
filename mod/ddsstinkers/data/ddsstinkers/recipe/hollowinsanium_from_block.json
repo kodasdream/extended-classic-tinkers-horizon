@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:hollowinsanium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:hollowinsanium_ingot",
+  "count": 9
+ }
+}

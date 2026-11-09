@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:blood_infused_wood_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:blood_infused_wood_leggings",
+  "count": 1
+ }
+}

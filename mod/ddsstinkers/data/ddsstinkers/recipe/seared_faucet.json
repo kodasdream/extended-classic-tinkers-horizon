@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "B B",
+  " B "
+ ],
+ "key": {
+  "B": "ddsstinkers:seared_brick"
+ },
+ "result": {
+  "id": "ddsstinkers:seared_faucet",
+  "count": 1
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:paper"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:paper"
+   }
+  ]
+ }
+}

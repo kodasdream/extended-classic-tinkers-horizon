@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:block",
+ "random_sequence": "ddsstinkers:blocks/pigiron_block",
+ "pools": [
+  {
+   "rolls": 1,
+   "condition": {
+    "type": "minecraft:survives_explosion"
+   },
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "ddsstinkers:pigiron_block"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:mica_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:mica_crystal",
+  "count": 9
+ }
+}

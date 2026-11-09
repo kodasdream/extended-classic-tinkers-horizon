@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:silver_ingot",
+  "minecraft:copper_ingot",
+  "minecraft:redstone"
+ ],
+ "result": {
+  "id": "ddsstinkers:soulium_ingot",
+  "count": 1
+ }
+}

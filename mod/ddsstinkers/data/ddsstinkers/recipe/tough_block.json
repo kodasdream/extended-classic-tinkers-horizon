@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:tough_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:tough_block",
+  "count": 1
+ }
+}

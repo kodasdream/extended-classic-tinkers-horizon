@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:xu_enchanted_metal_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:xu_enchanted_metal_block",
+  "count": 1
+ }
+}

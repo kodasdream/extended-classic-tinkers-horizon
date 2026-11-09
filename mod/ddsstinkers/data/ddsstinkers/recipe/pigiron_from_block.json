@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:pigiron_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:pigiron_ingot",
+  "count": 9
+ }
+}

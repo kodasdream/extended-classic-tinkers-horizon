@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:basalt_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:basalt_leggings",
+  "count": 1
+ }
+}

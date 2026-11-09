@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:endstone"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:endstone"
+   }
+  ]
+ }
+}

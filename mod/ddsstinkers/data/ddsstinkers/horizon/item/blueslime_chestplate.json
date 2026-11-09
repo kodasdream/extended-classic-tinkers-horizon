@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_chestplate",
+ "rarity": "common",
+ "components": {
+  "minecraft:max_damage": 128,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.chestplate",
+    "amount": 4,
+    "operation": "add_value",
+    "slot": "chest"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "chest",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:blueslime"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:blueslime_ingot"
+  }
+ }
+}

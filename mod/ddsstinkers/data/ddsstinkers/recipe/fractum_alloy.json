@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:triberium_ingot",
+  "ddsstinkers:triberium_ingot",
+  "ddsstinkers:triberium_ingot",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "longclimb:abyssum_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:fractum_ingot",
+  "count": 2
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_boots",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 273,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.boots",
+    "amount": 3,
+    "operation": "add_value",
+    "slot": "feet"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "feet",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:bloodwood"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:bloodwood_ingot"
+  }
+ }
+}

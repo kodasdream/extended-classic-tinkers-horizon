@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:cobalt_ingot",
+  "longclimb:cobalt_ingot",
+  "longclimb:cobalt_ingot",
+  "ddsstinkers:terrax_ingot",
+  "ddsstinkers:terrax_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:tritonite_ingot",
+  "count": 2
+ }
+}

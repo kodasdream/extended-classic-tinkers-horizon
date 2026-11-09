@@ -1,0 +1,38 @@
+{
+ "template": "minecraft:iron_chestplate",
+ "rarity": "rare",
+ "components": {
+  "minecraft:max_damage": 592,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.chestplate",
+    "amount": 8,
+    "operation": "add_value",
+    "slot": "chest"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.chestplate",
+    "amount": 3.0,
+    "operation": "add_value",
+    "slot": "chest"
+   },
+   {
+    "type": "minecraft:knockback_resistance",
+    "id": "minecraft:armor.chestplate",
+    "amount": 0.1,
+    "operation": "add_value",
+    "slot": "chest"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "chest",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:nucleum"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:nucleum_ingot"
+  }
+ }
+}

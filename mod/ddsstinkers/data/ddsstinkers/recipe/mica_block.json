@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:mica_crystal"
+ },
+ "result": {
+  "id": "ddsstinkers:mica_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:boron_nitride"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:boron_nitride"
+   }
+  ]
+ }
+}

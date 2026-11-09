@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:iron_ingot",
+  "longclimb:lead_ingot",
+  "minecraft:redstone"
+ ],
+ "result": {
+  "id": "ddsstinkers:starmetal_ingot",
+  "count": 1
+ }
+}

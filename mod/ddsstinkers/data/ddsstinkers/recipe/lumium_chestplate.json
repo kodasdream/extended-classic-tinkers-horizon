@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM MM",
+  "MMMMM",
+  "MMMMM",
+  "MMMMM",
+  "MMMMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:lumium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:lumium_chestplate",
+  "count": 1
+ }
+}

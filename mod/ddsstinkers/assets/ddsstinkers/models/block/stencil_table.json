@@ -1,0 +1,11 @@
+{
+ "parent": "ddsstinkers:block/table",
+ "textures": {
+  "particle": "ddsstinkers:block/stenciltable_top",
+  "top": "ddsstinkers:block/stenciltable_top",
+  "side": "ddsstinkers:block/table_side",
+  "bottom": "minecraft:block/oak_planks",
+  "leg": "minecraft:block/oak_planks",
+  "legBottom": "minecraft:block/oak_planks"
+ }
+}

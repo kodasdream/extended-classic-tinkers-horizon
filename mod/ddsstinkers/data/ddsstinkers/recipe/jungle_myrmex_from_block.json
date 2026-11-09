@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:jungle_myrmex_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:jungle_myrmex_ingot",
+  "count": 9
+ }
+}

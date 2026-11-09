@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:jungle_myrmex_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:jungle_myrmex_block",
+  "count": 1
+ }
+}

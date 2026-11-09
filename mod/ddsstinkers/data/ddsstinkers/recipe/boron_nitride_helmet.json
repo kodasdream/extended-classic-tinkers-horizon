@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:boron_nitride_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:boron_nitride_helmet",
+  "count": 1
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "template": "minecraft:hopper",
+ "properties": {
+  "hardness": 5.0,
+  "explosion_resistance": 20.0
+ },
+ "shapes": {
+  "default": [
+   [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ]
+  ]
+ },
+ "collision_shapes": {
+  "default": [
+   [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ]
+  ]
+ }
+}

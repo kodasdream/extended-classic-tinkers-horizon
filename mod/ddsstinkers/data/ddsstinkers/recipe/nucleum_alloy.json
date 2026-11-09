@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:proxii_ingot",
+  "ddsstinkers:proxii_ingot",
+  "ddsstinkers:proxii_ingot",
+  "longclimb:abyssum_ingot",
+  "longclimb:osram_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:nucleum_ingot",
+  "count": 3
+ }
+}

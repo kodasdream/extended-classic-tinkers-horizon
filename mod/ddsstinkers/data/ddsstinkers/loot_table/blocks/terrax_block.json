@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:block",
+ "random_sequence": "ddsstinkers:blocks/terrax_block",
+ "pools": [
+  {
+   "rolls": 1,
+   "condition": {
+    "type": "minecraft:survives_explosion"
+   },
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "ddsstinkers:terrax_block"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:osgloglas_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:osgloglas_ingot",
+  "count": 9
+ }
+}

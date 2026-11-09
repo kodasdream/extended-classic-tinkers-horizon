@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:triberium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:triberium_ingot",
+  "count": 9
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:fierymetal_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:fierymetal_ingot",
+  "count": 9
+ }
+}

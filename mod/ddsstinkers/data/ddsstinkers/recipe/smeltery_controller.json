@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "BBB",
+  "B B",
+  "BBB"
+ ],
+ "key": {
+  "B": "ddsstinkers:seared_brick"
+ },
+ "result": {
+  "id": "ddsstinkers:smeltery_controller",
+  "count": 1
+ }
+}

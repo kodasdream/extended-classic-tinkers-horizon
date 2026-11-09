@@ -1,0 +1,38 @@
+{
+ "template": "minecraft:iron_boots",
+ "rarity": "epic",
+ "components": {
+  "minecraft:max_damage": 1586,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.boots",
+    "amount": 4,
+    "operation": "add_value",
+    "slot": "feet"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.boots",
+    "amount": 7.7,
+    "operation": "add_value",
+    "slot": "feet"
+   },
+   {
+    "type": "minecraft:knockback_resistance",
+    "id": "minecraft:armor.boots",
+    "amount": 0.18,
+    "operation": "add_value",
+    "slot": "feet"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "feet",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:awakened"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:awakened_ingot"
+  }
+ }
+}

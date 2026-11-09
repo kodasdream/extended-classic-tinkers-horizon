@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:aluminum_ingot",
+  "longclimb:zinc_ingot",
+  "minecraft:redstone"
+ ],
+ "result": {
+  "id": "ddsstinkers:xu_demonic_metal_ingot",
+  "count": 1
+ }
+}

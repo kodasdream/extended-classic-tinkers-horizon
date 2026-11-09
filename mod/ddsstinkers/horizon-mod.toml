@@ -1,0 +1,8 @@
+id = "ddsstinkers"
+name = "Extended Classic Tinkers for Horizon"
+version = "0.5.0"
+description = "Tinkers' Construct 1.12 rebuilt for Horizon, with tool leveling and the TAIGA and PlusTiC materials, on top of Ore Overhaul Long Climb, which it needs. Tool part textures: Tinkers' Construct (MIT, SlimeKnights)."
+authors = ["Zsombor"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

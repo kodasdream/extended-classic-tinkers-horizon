@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "BBB",
+  "BFB",
+  "BBB"
+ ],
+ "key": {
+  "B": "ddsstinkers:seared_brick",
+  "F": "minecraft:furnace"
+ },
+ "result": {
+  "id": "ddsstinkers:seared_furnace_controller",
+  "count": 1
+ }
+}

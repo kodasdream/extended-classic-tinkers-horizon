@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "ddsstinkers:block/seared_drain",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "ddsstinkers:block/seared_drain",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "ddsstinkers:block/seared_drain",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "ddsstinkers:block/seared_drain",
+   "y": 270
+  }
+ }
+}

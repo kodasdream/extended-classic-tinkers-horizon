@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:intermedium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:intermedium_ingot",
+  "count": 9
+ }
+}

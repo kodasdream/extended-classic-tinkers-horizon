@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/generated",
+ "textures": {
+  "layer0": "ddsstinkers:item/blood_infused_wood_helmet"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:xu_magical_wood"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:xu_magical_wood"
+   }
+  ]
+ }
+}

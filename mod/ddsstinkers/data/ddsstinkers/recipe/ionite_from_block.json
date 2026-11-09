@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:ionite_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:ionite_crystal",
+  "count": 9
+ }
+}

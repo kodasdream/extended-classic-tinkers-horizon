@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:seared_bricks_square"
+ ],
+ "result": {
+  "id": "ddsstinkers:seared_bricks_triangle",
+  "count": 1
+ }
+}

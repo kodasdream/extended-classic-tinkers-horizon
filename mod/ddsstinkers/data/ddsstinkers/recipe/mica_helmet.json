@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:mica_crystal"
+ },
+ "result": {
+  "id": "ddsstinkers:mica_helmet",
+  "count": 1
+ }
+}

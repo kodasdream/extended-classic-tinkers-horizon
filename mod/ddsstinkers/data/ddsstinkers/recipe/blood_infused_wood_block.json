@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:blood_infused_wood_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:blood_infused_wood_block",
+  "count": 1
+ }
+}

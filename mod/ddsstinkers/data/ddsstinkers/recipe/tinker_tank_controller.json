@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "BGB",
+  "BFB",
+  "BGB"
+ ],
+ "key": {
+  "B": "ddsstinkers:seared_brick",
+  "G": "minecraft:glass",
+  "F": "minecraft:furnace"
+ },
+ "result": {
+  "id": "ddsstinkers:tinker_tank_controller",
+  "count": 1
+ }
+}

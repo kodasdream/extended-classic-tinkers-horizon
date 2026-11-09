@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:steeleaf"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:steeleaf"
+   }
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:lumium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:lumium_block",
+  "count": 1
+ }
+}

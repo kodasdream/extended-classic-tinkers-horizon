@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "ddsstinkers:item/tool/shuriken_2"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_leggings",
+ "rarity": "common",
+ "components": {
+  "minecraft:max_damage": 240,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.leggings",
+    "amount": 4,
+    "operation": "add_value",
+    "slot": "legs"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "legs",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:certusquartz"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:certusquartz_ingot"
+  }
+ }
+}

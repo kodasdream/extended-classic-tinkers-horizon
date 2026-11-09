@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:valyrium_ingot",
+  "longclimb:valyrium_ingot",
+  "longclimb:uru_ingot",
+  "longclimb:uru_ingot",
+  "ddsstinkers:nucleum_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:solarium_ingot",
+  "count": 2
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_chestplate",
+ "rarity": "common",
+ "components": {
+  "minecraft:max_damage": 96,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.chestplate",
+    "amount": 3,
+    "operation": "add_value",
+    "slot": "chest"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "chest",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:xu_magical_wood"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:xu_magical_wood_ingot"
+  }
+ }
+}

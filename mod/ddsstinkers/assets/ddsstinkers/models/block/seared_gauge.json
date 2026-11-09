@@ -1,0 +1,7 @@
+{
+ "parent": "ddsstinkers:block/cube_tank",
+ "textures": {
+  "top": "ddsstinkers:block/smeltery/seared_tank_top",
+  "side": "ddsstinkers:block/smeltery/seared_gauge_side"
+ }
+}

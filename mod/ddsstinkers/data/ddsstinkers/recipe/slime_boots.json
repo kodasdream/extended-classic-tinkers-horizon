@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "S S",
+  "B B"
+ ],
+ "key": {
+  "S": "minecraft:slime_block",
+  "B": "minecraft:slime_ball"
+ },
+ "result": {
+  "id": "ddsstinkers:slime_boots",
+  "count": 1
+ }
+}

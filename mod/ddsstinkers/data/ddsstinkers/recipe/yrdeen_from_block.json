@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:yrdeen_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:yrdeen_ingot",
+  "count": 9
+ }
+}

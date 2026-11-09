@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:block",
+ "random_sequence": "ddsstinkers:blocks/mud_bricks",
+ "pools": [
+  {
+   "rolls": 1,
+   "condition": {
+    "type": "minecraft:survives_explosion"
+   },
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "ddsstinkers:mud_bricks"
+    }
+   ]
+  }
+ ]
+}

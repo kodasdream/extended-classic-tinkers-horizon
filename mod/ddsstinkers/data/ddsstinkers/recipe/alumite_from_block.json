@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:alumite_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:alumite_ingot",
+  "count": 9
+ }
+}

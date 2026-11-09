@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBB",
+  "MSM",
+  "M M"
+ ],
+ "key": {
+  "B": "ddsstinkers:seared_brick",
+  "M": "minecraft:iron_block",
+  "S": "ddsstinkers:tool_station"
+ },
+ "result": {
+  "id": "ddsstinkers:tool_forge",
+  "count": 1
+ }
+}

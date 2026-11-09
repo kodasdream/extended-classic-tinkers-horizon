@@ -1,0 +1,96 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:book",
+  "minecraft:redstone"
+ ],
+ "result": {
+  "id": "minecraft:written_book",
+  "count": 1,
+  "components": {
+   "minecraft:written_book_content": {
+    "title": {
+     "raw": "Encyclopedia of Tinkering"
+    },
+    "author": "SlimeKnights",
+    "generation": 0,
+    "resolved": true,
+    "pages": [
+     {
+      "raw": "Adding a reinforced plate to the tool seems to help with its durability, making it stronger."
+     },
+     {
+      "raw": "Have you ever wished your tool could affect a wider area? Now it can!"
+     },
+     {
+      "raw": "The raw power of consecrated soil empowers your weapon, smiting enemies from on high."
+     },
+     {
+      "raw": "Adding a diamond to the edge of a tool makes it more resilient and increases what the tool can mine. Also makes a fetching fashion statement."
+     },
+     {
+      "raw": "Blow up all the blocks! Make them go away FAST! \n You can apply multiple levels to increase speed, but you probably lose all harvested blocks"
+     },
+     {
+      "raw": "Encrusting lapis on tools is a gift to the gods of luck. They will bless your tool with great fortune and loot. \n Has to be on the projectile for ranged weapons."
+     },
+     {
+      "raw": "Empower your tool with the ability of a Shulker. Hit enemies to render them powerless in midair."
+     },
+     {
+      "raw": "Have you ever wished your tool could affect a higher area? Now it can!"
+     },
+     {
+      "raw": "Attaching a piston to the tool and activating it at the right time seems to throw mobs further away."
+     },
+     {
+      "raw": "Working an ender pearl and some obsidian on a weapon has the curious effect of separating the target's head from its body. Just a little off the top?"
+     },
+     {
+      "raw": "Affixing an emerald to a tool's weakest point makes it especially resilient and fabulous. Villagers may also covet your tool, be wary."
+     },
+     {
+      "raw": "Adding a large glob of gold and a bunch of string seems to give the tool silky-smooth properties. \n I can't believe it's not butter!"
+     },
+     {
+      "raw": "Some moss has grown on the worn out edges of your tool. Enchanting it with some XP causes it to fuse with the tool, restoring it gradually."
+     },
+     {
+      "raw": "Placing the bone of a Wither Skeleton on a tool gives it nefarious life-stealing powers."
+     },
+     {
+      "raw": "Adding redstone to a tool seems to increase its speed. Redstones mining speed effect is more potent on slower tools. \n Redstone. Crazy stuff, amiright?"
+     },
+     {
+      "raw": "A perfect match. You love your tool. Not even death can part you from it."
+     },
+     {
+      "raw": "Take a tool part and emboss it onto the tool! It's like replacing the tool part, but better! The tool gets the traits of the part in addition to the already present ones (but not the stats)."
+     },
+     {
+      "raw": "Adding blaze powder to a tool gives it a fiery tinge. The weapon's edges look like embers. Sadly not bright enough to be a light source."
+     },
+     {
+      "raw": "You can use Quartz to sharpen and hone the edge of weapons. The more Quartz is used the better you can sharpen the blade. Works with blunt items as well."
+     },
+     {
+      "raw": "Striking a spider with its own eyeball causes it to recoil in fear. Got a pest problem? Here is the solution. Kills bugs dead."
+     },
+     {
+      "raw": "Some glowstone and a magical ender eye. Obviously this sees the light level."
+     },
+     {
+      "raw": "Harder, better, faster, stronger! Applies the same mining level of the material used to the tool."
+     },
+     {
+      "raw": "All those sticky spider webs have to be good for something. Slow your enemies with them!"
+     },
+     {
+      "raw": "Let's take a fish... and strap it onto arrows. Of course! It makes them swim underwater! Now I can shoot stuff underwater!"
+     }
+    ]
+   }
+  }
+ }
+}

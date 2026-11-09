@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:prudium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:prudium_block",
+  "count": 1
+ }
+}

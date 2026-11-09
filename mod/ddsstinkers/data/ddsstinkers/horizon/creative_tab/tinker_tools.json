@@ -1,0 +1,29 @@
+{
+ "title": "Classic Tinkers: Tinker Tools",
+ "icon": "ddsstinkers:pickaxe",
+ "items": [
+  "ddsstinkers:pickaxe",
+  "ddsstinkers:shovel",
+  "ddsstinkers:hatchet",
+  "ddsstinkers:mattock",
+  "ddsstinkers:kama",
+  "ddsstinkers:hammer",
+  "ddsstinkers:excavator",
+  "ddsstinkers:lumberaxe",
+  "ddsstinkers:scythe",
+  "ddsstinkers:broadsword",
+  "ddsstinkers:longsword",
+  "ddsstinkers:rapier",
+  "ddsstinkers:frypan",
+  "ddsstinkers:battlesign",
+  "ddsstinkers:cleaver",
+  "ddsstinkers:shortbow",
+  "ddsstinkers:longbow",
+  "ddsstinkers:crossbow",
+  "ddsstinkers:arrow",
+  "ddsstinkers:bolt",
+  "ddsstinkers:shuriken",
+  "ddsstinkers:katana",
+  "ddsstinkers:laser_gun"
+ ]
+}

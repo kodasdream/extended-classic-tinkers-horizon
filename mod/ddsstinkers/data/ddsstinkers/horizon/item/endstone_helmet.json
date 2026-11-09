@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_helmet",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 231,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.helmet",
+    "amount": 3,
+    "operation": "add_value",
+    "slot": "head"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "head",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:endstone"
+  },
+  "minecraft:repairable": {
+   "items": "minecraft:end_stone"
+  }
+ }
+}

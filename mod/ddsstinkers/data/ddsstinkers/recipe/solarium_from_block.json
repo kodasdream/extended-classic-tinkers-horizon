@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:solarium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:solarium_ingot",
+  "count": 9
+ }
+}

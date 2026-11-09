@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:prudium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:prudium_leggings",
+  "count": 1
+ }
+}

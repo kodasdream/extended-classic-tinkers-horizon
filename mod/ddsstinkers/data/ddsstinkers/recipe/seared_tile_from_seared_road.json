@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:seared_road"
+ ],
+ "result": {
+  "id": "ddsstinkers:seared_tile",
+  "count": 1
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:book",
+  "ddsstinkers:pattern"
+ ],
+ "result": {
+  "id": "minecraft:written_book",
+  "count": 1,
+  "components": {
+   "minecraft:written_book_content": {
+    "title": {
+     "raw": "Materials and You"
+    },
+    "author": "SlimeKnights",
+    "generation": 0,
+    "resolved": true,
+    "pages": [
+     {
+      "raw": "To do so simply take a sharpening kit of the material you need, and put it into a crafting grid together with the tool."
+     },
+     {
+      "raw": "The Pickaxe is a precise mining tool. It is effective on stone and ores. \n It breaks blocks, OK?"
+     },
+     {
+      "raw": "The Arrows are deadly projectiles, fired from a bow. The crafted arrows contain multiple shots and can be picked back up. \n Damage dealt depends on the bow as well as the arrows themselves. They offer a wide range of behaviours with"
+     },
+     {
+      "raw": "different materials."
+     },
+     {
+      "raw": "The Frying Pan is a heavy weapon that uses sheer weight to impede foes. It possesses a natural knockback. \n Holding rightclick charges up a powerful blow, so powerful that it deals bonus damage, knocks enemies farther away and cooks any"
+     },
+     {
+      "raw": "drops."
+     },
+     {
+      "raw": "The Shovel is a precise digging tool. It is effective on dirt, sand, gravel and snow. \n Rightclicking on grass turns the grass block into path."
+     },
+     {
+      "raw": "The Hammer is a broad mining tool. It harvests blocks in a wide range and is effective against undead. \n It is optimal for mining out large areas and long mining trips."
+     },
+     {
+      "raw": "Bolt Crafting\n\nTo craft bolts, you need a Bolt Core. Bolt Cores are created by putting an Arrow Shaft into a casting table and pouring the head material onto it."
+     },
+     {
+      "raw": "The Longsword is an offensive weapon. It is often used for charging into battle at full speed. It is slower than the Broadsword but scales better with damage. \n Holding rightclick charges up a lunge, which allows you to perform a short"
+     },
+     {
+      "raw": "jump."
+     },
+     {
+      "raw": "The Cleaver is a heavy offensive weapon. It has powerful strikes, but is difficult to wield. \n Each killing blow has a chance to behead the foe. Off with their heads!"
+     },
+     {
+      "raw": "Shurikens are short ranged throwing weapon, thrown instantly. They can be used from the offhand too, and allow for a lot of control due to their fast speed."
+     },
+     {
+      "raw": "The Rapier is a special weapon that relies on quick strikes to defeat (armored) foes. Each hit with the rapier partially bypasses the armor of the target. \n Rightclick performs a short backpedal, allowing to quickly dodge incoming damage."
+     },
+     {
+      "raw": "The Kama is a precision reaping tool, mowing down plants and shearing animals. \n Rightclicking on crops or sugarcane harvests and replants all fully grown plants in the area."
+     },
+     {
+      "raw": "The Broadsword is a versatile weapon. It has average damage, allows to knock back enemies with a sweep attack all while keeping your other hand free. \n Compatible with other offhand weapons or tools."
+     },
+     {
+      "raw": "The Cutter Mattock is a versatile farming tool. It is effective on wood, dirt, and plants. \n It can till soil and also deals respectable damage in combat."
+     },
+     {
+      "raw": "The Shortbow is a fast and nimble option for ranged combat. It fires faster than its vanilla brother and also allows for faster movement, however this comes with the price of reduced damage. \n If you're looking to turn your enemies into a"
+     },
+     {
+      "raw": "pincushion, then the shortbow is for you."
+     },
+     {
+      "raw": "The Longbow is the perfect weapon to kill over a distance. It fires slowly, but packs a punch. \n Perfect for abusing a positional advantage, you just need to nail the shot."
+     },
+     {
+      "raw": "The Excavator is a broad digging tool. It harvests soil and snow in a wide range. \n For when you need to dig a lot of graves."
+     },
+     {
+      "raw": "Offhand Harvesting\n\nTinkers' tools allow you to harvest blocks with both your main hand and your offhand. To do so, simply put a tool capable of harvesting blocks into your offhand, while holding another tool in your mainhand. When"
+     },
+     {
+      "raw": "breaking a block the effective tool will automatically be used, so just walk up to those blocks and break them like usual."
+     },
+     {
+      "raw": "The Lumber Axe is a broad chopping tool. It can fell entire trees or gather wood in a wide range. \n A tree is only detected if it has leaves on top."
+     },
+     {
+      "raw": "The Bolt is a heavy, armor penetrating projectile. Once loaded into a crossbow, they deal high amounts of damage while also penetrating half of the targets armor. \n Damage dealt depends on the crossbow as well as the bolts themselves. The"
+     },
+     {
+      "raw": "Bolt Crafting page explains how to craft the parts."
+     },
+     {
+      "raw": "The Battlesign is an advance in weapon technology worthy of Zombie Pigmen everywhere. It's a defensive weapon which doubles as a shield. \n Blocking gives increased damage reduction, reflecting a small portion of the damage and reflects any"
+     },
+     {
+      "raw": "projectiles."
+     },
+     {
+      "raw": "Repairing\n\nAs you use your tools, they take damage. Once all of their durability is gone they break. :( \n To fix that you need to repair your tool. You don't need to wait until it breaks, you can repair it at any time! Repairing is easy."
+     },
+     {
+      "raw": "Put the tool into a tool station or forge and add items equivalent to the head of the tool. If the tool's head is made of multiple parts you can use each of those materials. Repairing with multiple materials at the same time grants bonus"
+     },
+     {
+      "raw": "durability repaired. You can also repair your tools while deep under the earth or adventuring far away from your base."
+     },
+     {
+      "raw": "The Hatchet is a basic chopping tool. It is effective on wood and leaves. Breaking leaves with it does not consume durability. \n Using the hatchet in combat allows you to disable the shield of your opponent."
+     },
+     {
+      "raw": "The Scythe is a broad reaping tool. It is effective on plants and attacks enemies in a wide range. \n Rightclicking on crops or sugarcane harvests and replants all fully grown plants in the area."
+     },
+     {
+      "raw": "The Crossbow is a strong ranged weapon which needs to be loaded beforehand. Its bolts deal a lot of damage and pierce a part of the enemies armor. Crossbows gain extra benefits from bonus damage. \n Loading is relatively slow, but often you"
+     },
+     {
+      "raw": "only need one shot. You only need to land it."
+     },
+     {
+      "raw": "You can shape a non-metal material in a part builder with the pattern, then combine the parts in the tool station. Patterns can be stored and accessing the pattern chest and spare tool parts in the part chest. Lastly you can convert your"
+     },
+     {
+      "raw": "trusty old crafting table into a crafting station to keep your in progress projects stashed in it so you don't have to put the materials away should you need to walk away. \n \n Together these make the Tool Workshop. It is recommended you"
+     },
+     {
+      "raw": "keep all of these nearby when using any of them. I will now cover how to make each item from the Tool Workshop and show you how best they work together."
+     },
+     {
+      "raw": "Surviving the first day and beyond\n\nWelcome to the second edition of Materials and You: Surviving the first day and beyond. Within these pages you will find the first steps to making tools with the materials you find. \n \n This book is a"
+     },
+     {
+      "raw": "magic copy and it updates whenever the original has been modified. Check back occasionally for information on new things. \n \n The first step in making tools is to craft a blank pattern. It is a blank slate to stamp a shape into, providing"
+     },
+     {
+      "raw": "a reference for future creations."
+     },
+     {
+      "raw": "The lost pages\n\nWelcome to the second edition of Materials and You: Surviving the first day and beyond. Sadly, it looks like some pages were lost! This book is currently incomplete, but it contains all tool materials and modifiers. Later"
+     },
+     {
+      "raw": "versions will contain more information, so be sure to check back occasionally! Oh, also if you're wondering where Copper, Aluminum,... went: TConstruct only adds Cobalt and Ardite ore to the nether, but does not generate general ores"
+     },
+     {
+      "raw": "anymore. It does however support any mod that adds them automatically."
+     }
+    ]
+   }
+  }
+ }
+}

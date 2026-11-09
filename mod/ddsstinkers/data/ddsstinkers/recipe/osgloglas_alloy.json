@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:osmium_ingot",
+  "ddsstinkers:refinedobsidian_ingot",
+  "ddsstinkers:refinedglowstone_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:osgloglas_ingot",
+  "count": 1
+ }
+}

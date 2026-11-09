@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:netherite_ingot",
+  "longclimb:valyrium_ingot",
+  "minecraft:ender_pearl"
+ ],
+ "result": {
+  "id": "ddsstinkers:aethium_crystal",
+  "count": 1
+ }
+}

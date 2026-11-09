@@ -1,0 +1,36 @@
+{
+ "template": "minecraft:paper",
+ "components": {
+  "minecraft:max_damage": 16777216,
+  "minecraft:damage": 0,
+  "minecraft:tool": {
+   "rules": [
+    {
+     "blocks": "#longclimb:incorrect_for_level_0",
+     "correct_for_drops": false
+    }
+   ],
+   "damage_per_block": 1
+  },
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:attack_damage",
+    "id": "minecraft:base_attack_damage",
+    "amount": 0.0,
+    "operation": "add_value",
+    "slot": "mainhand"
+   },
+   {
+    "type": "minecraft:attack_speed",
+    "id": "minecraft:base_attack_speed",
+    "amount": -2.9,
+    "operation": "add_value",
+    "slot": "mainhand"
+   }
+  ],
+  "minecraft:weapon": {
+   "item_damage_per_attack": 1
+  }
+ },
+ "max_stack_size": 1
+}

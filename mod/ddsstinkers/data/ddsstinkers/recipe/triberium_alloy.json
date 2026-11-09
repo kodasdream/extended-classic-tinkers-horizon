@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:tiberium_ingot",
+  "longclimb:tiberium_ingot",
+  "longclimb:tiberium_ingot",
+  "longclimb:tiberium_ingot",
+  "ddsstinkers:basalt_ingot",
+  "ddsstinkers:basalt_ingot",
+  "ddsstinkers:basalt_ingot",
+  "ddsstinkers:basalt_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:triberium_ingot",
+  "count": 1
+ }
+}

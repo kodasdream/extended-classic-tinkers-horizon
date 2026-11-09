@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:tungsten_ingot",
+  "longclimb:cobalt_ingot",
+  "minecraft:blaze_powder"
+ ],
+ "result": {
+  "id": "ddsstinkers:ssmat_ingot",
+  "count": 1
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:boron_ingot",
+  "longclimb:osmium_ingot",
+  "minecraft:redstone"
+ ],
+ "result": {
+  "id": "ddsstinkers:prudentium_ingot",
+  "count": 1
+ }
+}

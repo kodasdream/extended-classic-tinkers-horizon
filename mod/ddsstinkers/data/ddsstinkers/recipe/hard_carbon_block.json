@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:hard_carbon_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:hard_carbon_block",
+  "count": 1
+ }
+}

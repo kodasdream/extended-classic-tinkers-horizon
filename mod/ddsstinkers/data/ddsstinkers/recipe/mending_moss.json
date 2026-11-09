@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MB",
+  "BM"
+ ],
+ "key": {
+  "M": "ddsstinkers:moss",
+  "B": "minecraft:bookshelf"
+ },
+ "result": {
+  "id": "ddsstinkers:mending_moss",
+  "count": 1
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:signalum"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:signalum"
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:netherrack"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:netherrack"
+   }
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "PCP",
+  "PSP",
+  "PCP"
+ ],
+ "key": {
+  "P": "minecraft:piston",
+  "C": "minecraft:copper_ingot",
+  "S": "minecraft:iron_block"
+ },
+ "result": {
+  "id": "ddsstinkers:expander_h",
+  "count": 1
+ }
+}

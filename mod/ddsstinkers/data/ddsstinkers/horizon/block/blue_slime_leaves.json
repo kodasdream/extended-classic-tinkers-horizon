@@ -1,0 +1,7 @@
+{
+ "template": "minecraft:oak_leaves",
+ "properties": {
+  "hardness": 0.2,
+  "explosion_resistance": 0.8
+ }
+}

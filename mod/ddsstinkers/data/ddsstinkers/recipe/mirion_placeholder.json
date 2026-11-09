@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:titanium_ingot",
+  "minecraft:diamond",
+  "minecraft:blaze_powder"
+ ],
+ "result": {
+  "id": "ddsstinkers:mirion_ingot",
+  "count": 1
+ }
+}

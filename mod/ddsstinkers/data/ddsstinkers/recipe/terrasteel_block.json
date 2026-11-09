@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:terrasteel_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:terrasteel_block",
+  "count": 1
+ }
+}

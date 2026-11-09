@@ -1,0 +1,10 @@
+{
+ "template": "minecraft:oak_planks",
+ "properties": {
+  "hardness": 2.0,
+  "explosion_resistance": 4.0
+ },
+ "components": {
+  "minecraft:rarity": "common"
+ }
+}

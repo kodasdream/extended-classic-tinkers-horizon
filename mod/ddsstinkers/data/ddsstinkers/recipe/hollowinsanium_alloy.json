@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:cobalt_ingot",
+  "longclimb:cobalt_ingot",
+  "longclimb:magnesium_ingot",
+  "longclimb:magnesium_ingot",
+  "longclimb:magnesium_ingot",
+  "longclimb:magnesium_ingot",
+  "ddsstinkers:insanium_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:hollowinsanium_ingot",
+  "count": 1
+ }
+}

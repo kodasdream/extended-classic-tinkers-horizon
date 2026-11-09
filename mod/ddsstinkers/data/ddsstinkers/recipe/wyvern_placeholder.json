@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:draconium_ingot",
+  "longclimb:mithril_ingot",
+  "minecraft:ender_pearl"
+ ],
+ "result": {
+  "id": "ddsstinkers:wyvern_ingot",
+  "count": 1
+ }
+}

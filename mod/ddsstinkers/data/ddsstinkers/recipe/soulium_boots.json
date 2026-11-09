@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "M   M",
+  "M   M",
+  "MM MM"
+ ],
+ "key": {
+  "M": "ddsstinkers:soulium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:soulium_boots",
+  "count": 1
+ }
+}

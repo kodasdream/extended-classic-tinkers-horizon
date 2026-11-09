@@ -1,0 +1,38 @@
+{
+ "template": "minecraft:iron_leggings",
+ "rarity": "rare",
+ "components": {
+  "minecraft:max_damage": 945,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.leggings",
+    "amount": 7,
+    "operation": "add_value",
+    "slot": "legs"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.leggings",
+    "amount": 4.4,
+    "operation": "add_value",
+    "slot": "legs"
+   },
+   {
+    "type": "minecraft:knockback_resistance",
+    "id": "minecraft:armor.leggings",
+    "amount": 0.12,
+    "operation": "add_value",
+    "slot": "legs"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "legs",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:hollowinsanium"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:hollowinsanium_ingot"
+  }
+ }
+}

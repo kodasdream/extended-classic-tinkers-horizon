@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:supramax"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:supramax"
+   }
+  ]
+ }
+}

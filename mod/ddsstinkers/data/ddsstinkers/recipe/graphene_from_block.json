@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:graphene_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:graphene_ingot",
+  "count": 9
+ }
+}

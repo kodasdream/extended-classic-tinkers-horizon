@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_chestplate",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 320,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.chestplate",
+    "amount": 6,
+    "operation": "add_value",
+    "slot": "chest"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "chest",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:fractum"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:fractum_ingot"
+  }
+ }
+}

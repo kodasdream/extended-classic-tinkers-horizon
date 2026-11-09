@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:niob_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:niob_block",
+  "count": 1
+ }
+}

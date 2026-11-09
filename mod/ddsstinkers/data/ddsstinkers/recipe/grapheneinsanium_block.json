@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:grapheneinsanium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:grapheneinsanium_block",
+  "count": 1
+ }
+}

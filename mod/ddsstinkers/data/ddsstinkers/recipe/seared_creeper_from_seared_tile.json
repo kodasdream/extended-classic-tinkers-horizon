@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:seared_tile"
+ ],
+ "result": {
+  "id": "ddsstinkers:seared_creeper",
+  "count": 1
+ }
+}

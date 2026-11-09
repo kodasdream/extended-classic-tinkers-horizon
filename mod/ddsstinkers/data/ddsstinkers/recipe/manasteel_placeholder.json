@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:platinum_ingot",
+  "longclimb:nickel_ingot",
+  "minecraft:blaze_powder"
+ ],
+ "result": {
+  "id": "ddsstinkers:manasteel_ingot",
+  "count": 1
+ }
+}

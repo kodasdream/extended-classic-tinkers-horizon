@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:steeleaf_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:steeleaf_ingot",
+  "count": 9
+ }
+}

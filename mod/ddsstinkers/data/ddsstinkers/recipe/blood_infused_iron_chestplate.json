@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM MM",
+  "MMMMM",
+  "MMMMM",
+  "MMMMM",
+  "MMMMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:blood_infused_iron_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:blood_infused_iron_chestplate",
+  "count": 1
+ }
+}

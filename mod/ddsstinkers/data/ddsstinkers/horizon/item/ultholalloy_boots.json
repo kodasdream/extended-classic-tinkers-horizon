@@ -1,0 +1,38 @@
+{
+ "template": "minecraft:iron_boots",
+ "rarity": "rare",
+ "components": {
+  "minecraft:max_damage": 1248,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.boots",
+    "amount": 4,
+    "operation": "add_value",
+    "slot": "feet"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.boots",
+    "amount": 6.2,
+    "operation": "add_value",
+    "slot": "feet"
+   },
+   {
+    "type": "minecraft:knockback_resistance",
+    "id": "minecraft:armor.boots",
+    "amount": 0.15,
+    "operation": "add_value",
+    "slot": "feet"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "feet",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:ultholalloy"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:ultholalloy_ingot"
+  }
+ }
+}

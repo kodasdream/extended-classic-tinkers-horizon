@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:glowstone_dust",
+  "minecraft:snowball"
+ ],
+ "result": {
+  "id": "ddsstinkers:glowball",
+  "count": 2
+ }
+}

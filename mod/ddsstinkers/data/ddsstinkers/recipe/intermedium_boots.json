@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "M   M",
+  "M   M",
+  "MM MM"
+ ],
+ "key": {
+  "M": "ddsstinkers:intermedium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:intermedium_boots",
+  "count": 1
+ }
+}

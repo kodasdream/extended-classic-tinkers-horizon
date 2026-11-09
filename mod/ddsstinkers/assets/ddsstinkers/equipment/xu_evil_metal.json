@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:xu_evil_metal"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:xu_evil_metal"
+   }
+  ]
+ }
+}

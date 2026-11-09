@@ -1,0 +1,31 @@
+{
+ "template": "minecraft:iron_helmet",
+ "rarity": "rare",
+ "components": {
+  "minecraft:max_damage": 385,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.helmet",
+    "amount": 3,
+    "operation": "add_value",
+    "slot": "head"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.helmet",
+    "amount": 2.4,
+    "operation": "add_value",
+    "slot": "head"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "head",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:graphene"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:graphene_ingot"
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:blood_infused_wood"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:blood_infused_wood"
+   }
+  ]
+ }
+}

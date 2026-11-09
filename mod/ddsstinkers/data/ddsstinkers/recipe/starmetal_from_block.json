@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:starmetal_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:starmetal_ingot",
+  "count": 9
+ }
+}

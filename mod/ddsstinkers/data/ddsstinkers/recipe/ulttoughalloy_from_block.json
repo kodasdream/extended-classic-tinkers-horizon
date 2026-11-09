@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:ulttoughalloy_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:ulttoughalloy_ingot",
+  "count": 9
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:block/orientable",
+ "textures": {
+  "top": "ddsstinkers:block/seared_bricks",
+  "side": "ddsstinkers:block/seared_bricks",
+  "front": "ddsstinkers:block/smeltery/seared_furnace_inactive"
+ }
+}

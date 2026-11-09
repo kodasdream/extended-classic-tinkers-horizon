@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:ignitz"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:ignitz"
+   }
+  ]
+ }
+}

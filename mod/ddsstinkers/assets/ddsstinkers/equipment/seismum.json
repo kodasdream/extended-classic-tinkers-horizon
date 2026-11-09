@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:seismum"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:seismum"
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:fractum"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:fractum"
+   }
+  ]
+ }
+}

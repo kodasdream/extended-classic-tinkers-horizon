@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:seared_stone"
+ ],
+ "result": {
+  "id": "ddsstinkers:seared_cobble",
+  "count": 1
+ }
+}

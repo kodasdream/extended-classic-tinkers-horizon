@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:refinedobsidian"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:refinedobsidian"
+   }
+  ]
+ }
+}

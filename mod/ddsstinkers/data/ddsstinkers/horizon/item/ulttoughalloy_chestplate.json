@@ -1,0 +1,38 @@
+{
+ "template": "minecraft:iron_chestplate",
+ "rarity": "epic",
+ "components": {
+  "minecraft:max_damage": 2256,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.chestplate",
+    "amount": 10,
+    "operation": "add_value",
+    "slot": "chest"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.chestplate",
+    "amount": 8.8,
+    "operation": "add_value",
+    "slot": "chest"
+   },
+   {
+    "type": "minecraft:knockback_resistance",
+    "id": "minecraft:armor.chestplate",
+    "amount": 0.2,
+    "operation": "add_value",
+    "slot": "chest"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "chest",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:ulttoughalloy"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:ulttoughalloy_ingot"
+  }
+ }
+}

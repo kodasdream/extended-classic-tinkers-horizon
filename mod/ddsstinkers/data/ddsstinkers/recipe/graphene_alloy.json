@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:hollowalloy_ingot",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "ddsstinkers:hard_carbon_ingot",
+  "ddsstinkers:hard_carbon_ingot",
+  "ddsstinkers:hard_carbon_ingot",
+  "ddsstinkers:hard_carbon_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:graphene_ingot",
+  "count": 1
+ }
+}

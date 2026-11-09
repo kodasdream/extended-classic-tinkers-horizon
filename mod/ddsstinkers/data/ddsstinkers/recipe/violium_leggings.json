@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:violium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:violium_leggings",
+  "count": 1
+ }
+}

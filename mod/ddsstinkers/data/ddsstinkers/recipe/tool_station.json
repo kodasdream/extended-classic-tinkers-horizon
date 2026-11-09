@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P",
+  "C"
+ ],
+ "key": {
+  "P": "ddsstinkers:pattern",
+  "C": "minecraft:crafting_table"
+ },
+ "result": {
+  "id": "ddsstinkers:tool_station",
+  "count": 1
+ }
+}

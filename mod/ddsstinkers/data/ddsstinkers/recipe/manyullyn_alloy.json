@@ -1,0 +1,14 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:cobalt_ingot",
+  "longclimb:cobalt_ingot",
+  "longclimb:ardite_ingot",
+  "longclimb:ardite_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:manyullyn_ingot",
+  "count": 2
+ }
+}

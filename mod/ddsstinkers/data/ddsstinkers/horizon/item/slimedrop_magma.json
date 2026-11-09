@@ -1,0 +1,10 @@
+{
+ "template": "minecraft:cooked_porkchop",
+ "rarity": "common",
+ "components": {
+  "minecraft:food": {
+   "nutrition": 2,
+   "saturation": 2.0
+  }
+ }
+}

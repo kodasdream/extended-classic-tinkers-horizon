@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:desert_myrmex"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:desert_myrmex"
+   }
+  ]
+ }
+}

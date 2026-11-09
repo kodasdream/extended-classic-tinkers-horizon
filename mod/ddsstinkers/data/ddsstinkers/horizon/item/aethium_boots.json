@@ -1,0 +1,38 @@
+{
+ "template": "minecraft:iron_boots",
+ "rarity": "rare",
+ "components": {
+  "minecraft:max_damage": 481,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.boots",
+    "amount": 3,
+    "operation": "add_value",
+    "slot": "feet"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.boots",
+    "amount": 3.0,
+    "operation": "add_value",
+    "slot": "feet"
+   },
+   {
+    "type": "minecraft:knockback_resistance",
+    "id": "minecraft:armor.boots",
+    "amount": 0.1,
+    "operation": "add_value",
+    "slot": "feet"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "feet",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:aethium"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:aethium_crystal"
+  }
+ }
+}

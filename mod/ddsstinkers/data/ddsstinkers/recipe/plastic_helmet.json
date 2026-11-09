@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:plastic_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:plastic_helmet",
+  "count": 1
+ }
+}

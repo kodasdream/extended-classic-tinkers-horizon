@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:tough_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:tough_ingot",
+  "count": 9
+ }
+}

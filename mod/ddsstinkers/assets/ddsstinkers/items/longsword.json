@@ -1,0 +1,40 @@
+{
+ "model": {
+  "type": "minecraft:composite",
+  "models": [
+   {
+    "type": "minecraft:model",
+    "model": "ddsstinkers:item/tool/longsword_0",
+    "tints": [
+     {
+      "type": "minecraft:custom_model_data",
+      "index": 0,
+      "default": -1
+     }
+    ]
+   },
+   {
+    "type": "minecraft:model",
+    "model": "ddsstinkers:item/tool/longsword_1",
+    "tints": [
+     {
+      "type": "minecraft:custom_model_data",
+      "index": 1,
+      "default": -1
+     }
+    ]
+   },
+   {
+    "type": "minecraft:model",
+    "model": "ddsstinkers:item/tool/longsword_2",
+    "tints": [
+     {
+      "type": "minecraft:custom_model_data",
+      "index": 2,
+      "default": -1
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:erodium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:erodium_crystal",
+  "count": 9
+ }
+}

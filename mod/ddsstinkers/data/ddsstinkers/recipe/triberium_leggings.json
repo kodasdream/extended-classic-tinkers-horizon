@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:triberium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:triberium_leggings",
+  "count": 1
+ }
+}

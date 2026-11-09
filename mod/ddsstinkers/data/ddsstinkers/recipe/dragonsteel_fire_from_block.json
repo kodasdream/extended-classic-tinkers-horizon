@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:dragonsteel_fire_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:dragonsteel_fire_ingot",
+  "count": 9
+ }
+}

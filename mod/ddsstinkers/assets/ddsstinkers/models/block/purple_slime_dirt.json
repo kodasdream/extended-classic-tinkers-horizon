@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:block/cube_all",
+ "textures": {
+  "all": "ddsstinkers:block/purple_slime_dirt"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:nucleum_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:nucleum_block",
+  "count": 1
+ }
+}

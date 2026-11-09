@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "ddsstinkers:triberium_ingot",
+  "ddsstinkers:triberium_ingot",
+  "longclimb:eezo_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:seismum_ingot",
+  "count": 4
+ }
+}

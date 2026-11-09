@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:palladium_ingot",
+  "ddsstinkers:terrax_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:lumix_ingot",
+  "count": 1
+ }
+}

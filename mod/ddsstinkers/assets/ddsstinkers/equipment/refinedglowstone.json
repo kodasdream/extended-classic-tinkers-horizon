@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:refinedglowstone"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:refinedglowstone"
+   }
+  ]
+ }
+}

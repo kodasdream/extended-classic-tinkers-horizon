@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:prometheum_ingot",
+  "longclimb:prometheum_ingot",
+  "longclimb:prometheum_ingot",
+  "longclimb:palladium_ingot",
+  "longclimb:palladium_ingot",
+  "longclimb:palladium_ingot",
+  "longclimb:eezo_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:proxii_ingot",
+  "count": 3
+ }
+}

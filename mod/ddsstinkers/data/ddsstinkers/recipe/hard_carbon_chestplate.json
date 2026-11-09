@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM MM",
+  "MMMMM",
+  "MMMMM",
+  "MMMMM",
+  "MMMMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:hard_carbon_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:hard_carbon_chestplate",
+  "count": 1
+ }
+}

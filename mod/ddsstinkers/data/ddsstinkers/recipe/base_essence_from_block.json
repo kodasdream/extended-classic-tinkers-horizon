@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:base_essence_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:base_essence_ingot",
+  "count": 9
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P",
+  "L"
+ ],
+ "key": {
+  "P": "ddsstinkers:pattern",
+  "L": "#minecraft:planks"
+ },
+ "result": {
+  "id": "ddsstinkers:stencil_table",
+  "count": 1
+ }
+}

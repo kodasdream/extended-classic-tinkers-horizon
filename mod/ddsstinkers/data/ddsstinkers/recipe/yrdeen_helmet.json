@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:yrdeen_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:yrdeen_helmet",
+  "count": 1
+ }
+}

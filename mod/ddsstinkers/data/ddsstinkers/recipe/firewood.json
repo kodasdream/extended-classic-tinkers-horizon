@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "#minecraft:planks",
+  "minecraft:blaze_powder"
+ ],
+ "result": {
+  "id": "ddsstinkers:firewood",
+  "count": 1
+ }
+}

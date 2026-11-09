@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:karmesine_ingot",
+  "longclimb:ovium_ingot",
+  "longclimb:jauxum_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:terrax_ingot",
+  "count": 2
+ }
+}

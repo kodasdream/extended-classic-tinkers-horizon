@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:nickel_ingot",
+  "longclimb:boron_ingot",
+  "minecraft:blaze_powder"
+ ],
+ "result": {
+  "id": "ddsstinkers:dragonbone_ingot",
+  "count": 1
+ }
+}

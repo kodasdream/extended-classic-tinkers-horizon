@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "BGB",
+  "BGB",
+  "BGB"
+ ],
+ "key": {
+  "B": "ddsstinkers:seared_brick",
+  "G": "minecraft:glass"
+ },
+ "result": {
+  "id": "ddsstinkers:seared_window",
+  "count": 1
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "structures": [
+  {
+   "structure": "ddsstinkers:slime_island_blue",
+   "weight": 1
+  }
+ ],
+ "placement": {
+  "type": "minecraft:random_spread",
+  "spacing": 48,
+  "separation": 16,
+  "salt": 20221324
+ }
+}

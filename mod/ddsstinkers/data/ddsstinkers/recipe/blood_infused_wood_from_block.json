@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:blood_infused_wood_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:blood_infused_wood_ingot",
+  "count": 9
+ }
+}

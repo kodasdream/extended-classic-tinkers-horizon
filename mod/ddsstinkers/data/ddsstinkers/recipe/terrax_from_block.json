@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:terrax_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:terrax_ingot",
+  "count": 9
+ }
+}

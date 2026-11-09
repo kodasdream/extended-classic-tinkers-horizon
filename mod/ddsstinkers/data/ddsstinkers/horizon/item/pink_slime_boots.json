@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_boots",
+ "rarity": "common",
+ "components": {
+  "minecraft:max_damage": 117,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.boots",
+    "amount": 2,
+    "operation": "add_value",
+    "slot": "feet"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "feet",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:pink_slime"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:pink_slime_ingot"
+  }
+ }
+}

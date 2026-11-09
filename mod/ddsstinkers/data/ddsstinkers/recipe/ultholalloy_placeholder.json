@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:aetherium_ingot",
+  "longclimb:black_opal_gem",
+  "minecraft:ender_pearl"
+ ],
+ "result": {
+  "id": "ddsstinkers:ultholalloy_ingot",
+  "count": 1
+ }
+}

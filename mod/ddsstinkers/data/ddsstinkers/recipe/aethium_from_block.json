@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:aethium_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:aethium_crystal",
+  "count": 9
+ }
+}

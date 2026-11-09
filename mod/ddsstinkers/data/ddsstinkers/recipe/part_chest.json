@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P",
+  "C"
+ ],
+ "key": {
+  "P": "ddsstinkers:binding",
+  "C": "minecraft:chest"
+ },
+ "result": {
+  "id": "ddsstinkers:part_chest",
+  "count": 1
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "CC",
+  "CC"
+ ],
+ "key": {
+  "C": "ddsstinkers:dried_clay"
+ },
+ "result": {
+  "id": "ddsstinkers:dried_clay_bricks",
+  "count": 4
+ }
+}

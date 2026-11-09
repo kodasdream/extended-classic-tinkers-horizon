@@ -1,0 +1,38 @@
+{
+ "template": "minecraft:iron_helmet",
+ "rarity": "rare",
+ "components": {
+  "minecraft:max_damage": 693,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.helmet",
+    "amount": 3,
+    "operation": "add_value",
+    "slot": "head"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.helmet",
+    "amount": 4.4,
+    "operation": "add_value",
+    "slot": "head"
+   },
+   {
+    "type": "minecraft:knockback_resistance",
+    "id": "minecraft:armor.helmet",
+    "amount": 0.12,
+    "operation": "add_value",
+    "slot": "head"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "head",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:hollowinsanium"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:hollowinsanium_ingot"
+  }
+ }
+}

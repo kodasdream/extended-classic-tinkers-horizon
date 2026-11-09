@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "OOO",
+  "OPO",
+  "OOO"
+ ],
+ "key": {
+  "O": "minecraft:obsidian",
+  "P": "ddsstinkers:cast_plate"
+ },
+ "result": {
+  "id": "ddsstinkers:reinforcement",
+  "count": 1
+ }
+}

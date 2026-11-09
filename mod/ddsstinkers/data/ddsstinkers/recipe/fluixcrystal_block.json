@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:fluixcrystal_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:fluixcrystal_block",
+  "count": 1
+ }
+}

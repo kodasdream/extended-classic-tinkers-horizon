@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:block/cube_bottom_top",
+ "textures": {
+  "top": "ddsstinkers:block/blue_slime_grass_top",
+  "side": "ddsstinkers:block/blue_slime_grass_side",
+  "bottom": "ddsstinkers:block/slime/slimedirt_blue"
+ }
+}

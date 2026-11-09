@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:seismum_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:seismum_ingot",
+  "count": 9
+ }
+}

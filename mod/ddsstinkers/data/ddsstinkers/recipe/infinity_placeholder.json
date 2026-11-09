@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:cosmite_ingot",
+  "longclimb:neutronium_ingot",
+  "minecraft:nether_star"
+ ],
+ "result": {
+  "id": "ddsstinkers:infinity_ingot",
+  "count": 1
+ }
+}

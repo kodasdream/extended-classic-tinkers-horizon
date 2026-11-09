@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:constantan_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:constantan_ingot",
+  "count": 9
+ }
+}

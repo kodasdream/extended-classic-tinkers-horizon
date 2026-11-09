@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:ruby_gem",
+  "longclimb:platinum_ingot",
+  "minecraft:blaze_powder"
+ ],
+ "result": {
+  "id": "ddsstinkers:superium_ingot",
+  "count": 1
+ }
+}

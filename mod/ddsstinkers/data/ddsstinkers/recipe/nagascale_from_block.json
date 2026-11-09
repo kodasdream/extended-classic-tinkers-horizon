@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:nagascale_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:nagascale_ingot",
+  "count": 9
+ }
+}

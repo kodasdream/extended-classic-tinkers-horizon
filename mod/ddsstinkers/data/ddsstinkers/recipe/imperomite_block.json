@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:imperomite_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:imperomite_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:steel_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:steel_block",
+  "count": 1
+ }
+}

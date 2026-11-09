@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:intermedium_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:intermedium_helmet",
+  "count": 1
+ }
+}

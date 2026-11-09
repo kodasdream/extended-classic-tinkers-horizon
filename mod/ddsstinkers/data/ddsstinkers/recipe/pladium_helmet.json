@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMMMM",
+  "M   M",
+  "M   M"
+ ],
+ "key": {
+  "M": "ddsstinkers:pladium_crystal"
+ },
+ "result": {
+  "id": "ddsstinkers:pladium_helmet",
+  "count": 1
+ }
+}

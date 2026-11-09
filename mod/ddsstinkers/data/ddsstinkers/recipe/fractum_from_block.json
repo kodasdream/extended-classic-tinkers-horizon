@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:fractum_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:fractum_ingot",
+  "count": 9
+ }
+}

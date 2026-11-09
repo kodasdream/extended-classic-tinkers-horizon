@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "BB",
+  "BB"
+ ],
+ "key": {
+  "B": "ddsstinkers:slimeball_blue"
+ },
+ "result": {
+  "id": "ddsstinkers:congealed_blue_slime",
+  "count": 1
+ }
+}

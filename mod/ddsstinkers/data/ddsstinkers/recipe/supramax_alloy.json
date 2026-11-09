@@ -1,0 +1,13 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:terrax_ingot",
+  "ddsstinkers:terrax_ingot",
+  "ddsstinkers:supremium_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:supramax_ingot",
+  "count": 1
+ }
+}

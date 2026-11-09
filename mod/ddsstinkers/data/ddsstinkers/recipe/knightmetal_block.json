@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "ddsstinkers:knightmetal_ingot"
+ },
+ "result": {
+  "id": "ddsstinkers:knightmetal_block",
+  "count": 1
+ }
+}

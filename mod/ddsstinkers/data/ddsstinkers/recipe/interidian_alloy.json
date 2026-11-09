@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:intermedium_ingot",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "minecraft:obsidian",
+  "minecraft:obsidian"
+ ],
+ "result": {
+  "id": "ddsstinkers:interidian_ingot",
+  "count": 1
+ }
+}

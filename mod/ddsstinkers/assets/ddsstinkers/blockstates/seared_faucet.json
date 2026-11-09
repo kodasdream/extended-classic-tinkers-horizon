@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=south": {
+   "model": "ddsstinkers:block/seared_faucet",
+   "y": 0
+  },
+  "facing=west": {
+   "model": "ddsstinkers:block/seared_faucet",
+   "y": 90
+  },
+  "facing=north": {
+   "model": "ddsstinkers:block/seared_faucet",
+   "y": 180
+  },
+  "facing=east": {
+   "model": "ddsstinkers:block/seared_faucet",
+   "y": 270
+  }
+ }
+}

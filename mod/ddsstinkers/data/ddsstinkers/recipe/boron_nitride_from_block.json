@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "ddsstinkers:boron_nitride_block"
+ ],
+ "result": {
+  "id": "ddsstinkers:boron_nitride_ingot",
+  "count": 9
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:block/leaves",
+ "textures": {
+  "all": "ddsstinkers:block/purple_slime_leaves"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:osmium_ingot",
+  "longclimb:iridium_ingot"
+ ],
+ "result": {
+  "id": "ddsstinkers:osmiridium_ingot",
+  "count": 2
+ }
+}

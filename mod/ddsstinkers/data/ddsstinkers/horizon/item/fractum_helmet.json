@@ -1,0 +1,24 @@
+{
+ "template": "minecraft:iron_helmet",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 220,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.helmet",
+    "amount": 2,
+    "operation": "add_value",
+    "slot": "head"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "head",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:fractum"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:fractum_ingot"
+  }
+ }
+}

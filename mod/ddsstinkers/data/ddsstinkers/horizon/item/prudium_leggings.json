@@ -1,0 +1,31 @@
+{
+ "template": "minecraft:iron_leggings",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 330,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:armor",
+    "id": "minecraft:armor.leggings",
+    "amount": 5,
+    "operation": "add_value",
+    "slot": "legs"
+   },
+   {
+    "type": "minecraft:armor_toughness",
+    "id": "minecraft:armor.leggings",
+    "amount": 0.2,
+    "operation": "add_value",
+    "slot": "legs"
+   }
+  ],
+  "minecraft:equippable": {
+   "slot": "legs",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "asset_id": "ddsstinkers:prudium"
+  },
+  "minecraft:repairable": {
+   "items": "ddsstinkers:prudium_ingot"
+  }
+ }
+}

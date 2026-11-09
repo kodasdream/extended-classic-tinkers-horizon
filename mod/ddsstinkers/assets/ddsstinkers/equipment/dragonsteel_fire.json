@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ddsstinkers:dragonsteel_fire"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ddsstinkers:dragonsteel_fire"
+   }
+  ]
+ }
+}
